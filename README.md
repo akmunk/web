@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-You can use the [editor on GitHub](https://github.com/akmunk/web/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Mapping Controversies
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository contains the website data.
 
-### Markdown
+### Browse
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[https://jacomyma.github.io/mapping-controversies/](https://jacomyma.github.io/mapping-controversies/)
 
-```markdown
-Syntax highlighted code block
+### Edit
 
-# Header 1
-## Header 2
-### Header 3
+Edit pages in markdown in the ```/_pages``` folder, and images etc. in the ```/assets``` folder.
 
-- Bulleted
-- List
+### Theme
 
-1. Numbered
-2. List
+We use [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
 
-**Bold** and _Italic_ and `Code` text
+### License
 
-[Link](url) and ![Image](src)
-```
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-### Jekyll Themes
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akmunk/web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
